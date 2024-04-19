@@ -2,7 +2,7 @@
   "name": "confoo-2024-html-unsung-super-hero",
   "private": true,
   "scripts": {
-    "build": "slidev build --base=/confoo-html/",
+    "build": "slidev build --base=/reactconnection-future/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
